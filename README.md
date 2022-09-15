@@ -1,5 +1,5 @@
 # Iván Paniagua
 
-Cambios locos
+Sistemas Operativos - Jonathan Mircha
 
-tuf
+En esta materio aprendo acerca de las funciones y uso de GitBash, una aplicación que me permite crear y subir repositorios y Github la herramienta donde puedo visualizar, editar y crear dichos repositorios.
