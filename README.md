@@ -1,5 +1,5 @@
 # Iván Paniagua
 
-Lenguajes Interpretados - Fernando Mosby
+Diseño de Videojuegos - Eduardo Guerrero
 
-En esta materia aprendo utilizar Python en conjunto con Visual Code para poder programar páginas web.
+Por medio de esta materia, aprendo más a profundidad diferentes elementos a tomar en cuenta en la creación de videojuegos que cuenten con una experiencia agradable para el jugador.
