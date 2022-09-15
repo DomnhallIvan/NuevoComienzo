@@ -1,5 +1,5 @@
 # Iván Paniagua
 
-Diseño de Videojuegos - Eduardo Guerrero
+Proyecto Semestral - Rodrigo Saco
 
-Por medio de esta materia, aprendo más a profundidad diferentes elementos a tomar en cuenta en la creación de videojuegos que cuenten con una experiencia agradable para el jugador.
+En esta materia desarrollaré un videojuego a lo largo del Parcial con el cuál puedo mejorar mis habilidades como programador y empezar 
