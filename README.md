@@ -1,5 +1,5 @@
 # Iván Paniagua
 
-Proyecto Semestral - Rodrigo Saco
+Principios de Composición y Diseño - Roberto Melo
 
-En esta materia desarrollaré un videojuego a lo largo del Parcial con el cuál puedo mejorar mis habilidades como programador y empezar 
+En esta materia aprenderé varias cosas a considerar en el diseño gráfico de una imagen, o elemento artístico. Además de aprender como utilizar diferentes herramientas como Photoshop e Illustrator.
